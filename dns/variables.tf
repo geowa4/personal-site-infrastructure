@@ -1,6 +1,5 @@
 variable "domain" {
   type    = "string"
-  default = "geowa4.software"
 }
 
 variable "site_ips" {
